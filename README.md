@@ -1,5 +1,7 @@
-### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monospace&duration=1000&pause=3000&color=CF103C&repeat=false&width=435&lines=Hi+there%2C+i'm+arxnoire;welcome+to+my+github+profile)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=arxnoire&color=blueviolet&style=for-the-badge)
 <!--
 **arxnoire/arxnoire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
